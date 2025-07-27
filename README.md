@@ -24,3 +24,4 @@ This is an AI-powered multi-language translator built using **Facebook's mBART-5
 - Chinese
 
 And many more via mBART-50 architecture.
+
